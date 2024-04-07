@@ -1,5 +1,5 @@
 # Another World Studios 🌐
 
-<img src="../../Images/Logos/Base Logo.png">
+<img src="https://github.com/Another-World-Studios/.github/blob/main/Images/Logos/Base%20Logo.png?raw=true">
 
 We are a group of indie developers looking to change the course of the gaming industry.
